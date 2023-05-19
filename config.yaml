@@ -1,0 +1,5 @@
+url: 'http://172.16.5.153:9443/magma/v1/networks'
+cert: 'C:/Users/madhusudhanan/PycharmProjects/Juniper5G/apiconfigs/admin_operator.pem'
+key:  'C:/Users/madhusudhanan/PycharmProjects/Juniper5G/apiconfigs/admin_operator.key.pem'
+json: 'C:/Users/madhusudhanan/PycharmProjects/Juniper5G/apiconfigs/json/newnetwork.json'
+json_data: 'C:/Users/madhusudhanan/PycharmProjects/Juniper5G/json/postnetwork.json'
